@@ -1,2 +1,2 @@
 # ライセンス
-[ライセンスついてはこちらのリンクを参照](kouhei-math-project.github.io/LICENSE.md)
+[ライセンスついてはこちらのリンクを参照](https://kouhei-math-project.github.io/LICENSE.md)
