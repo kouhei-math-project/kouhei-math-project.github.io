@@ -12,7 +12,7 @@
 
 であった場合は、
 
-クレジットに [大問15](https://scratch.mit.edu/projects/example) by [@kouhei-1](https://scratch.mit.edu/users/kouhei-1) という文書かなければなりません。
+クレジットに [大問15](https://scratch.mit.edu/projects/example) by [@kouhei-1](https://scratch.mit.edu/users/kouhei-1) という文書かなければなりません。また、利用規約へのリンクを示す必要があります。
 
 ## 再配布
 再配布は認められていますが、ライセンスを引き継ぐ必要があります。
